@@ -6,7 +6,7 @@ The purpose of the `Calculate_wer.py` script is to compute the Word Error Rate (
 
 ## Performance Metrics
 
-- WER: 0.0673 (Batch Size: 1, CPU, 8 files in `Manifest.json`)
+- WER: 0.0673 (Batch Size: 1, CPU, 8 files in `Manifest.json`, Model: Hindi, Dataset: Kathbath) 
 
 ## Challenges Faced
 
